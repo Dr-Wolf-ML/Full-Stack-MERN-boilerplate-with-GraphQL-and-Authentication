@@ -1,10 +1,10 @@
 {
   "name": "users",
   "version": "1.0.0",
-  "description": "Starter pack for an auth-included graphql project",
+  "description": "GraphQL client/server boilerplate for Full Stack MERN with Passport authentication, Express-GraphQL on MongoDB, React-Apollo and Express-GraphQL",
   "repository": {
     "type": "git",
-    "url": "github.com/stephengrider"
+    "url": "github.com/Dr-Wolf-ML"
   },
   "main": "index.js",
   "scripts": {
@@ -38,5 +38,7 @@
     "react-router": "^3.0.2",
     "webpack": "^2.2.0",
     "webpack-dev-middleware": "^1.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
   }
-}
